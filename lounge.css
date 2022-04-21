@@ -1,0 +1,72 @@
+body { 
+  background-color: #88bdbc;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           10px;
+}
+
+#tableContainer { display: table; border-spacing: 10px;
+}
+#tableRow {
+display: table-row; }
+
+#header {
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 20%;
+	}
+
+.textheader {
+	text-align:       center;
+  	line-height:      2em;
+	}
+
+h1,h2 {
+	text-align: center; }
+
+
+#warranty {
+	text-align: center;
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 15%;
+	}
+
+#main {
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 70%;
+	}
+
+#music { 
+	text-align: center;
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 15%;
+	}
+
+
+#elixirs {
+  	text-align: center;
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 15%; }
+
+#elixirs2 {
+  	text-align: center;
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 15%; }
+
+#elixirs3 {
+  	text-align: center;
+	display: table-cell;
+	background-color: #88bdbc; 
+	width: 15%; }
+
+
+
+
+
+
+
